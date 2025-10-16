@@ -44,25 +44,6 @@ A curated collection of **free programming eBooks (EPUB)** focused (for now) on 
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-- Include only **legally shareable** or **openly licensed** EPUBs.  
-- Add a short note in the PR if a book needs context (level, prerequisites).  
-- Open a **Pull Request** with:
-  - A clear title and short description  
-  - Why this book is valuable (1–2 lines)
-
----
-
-## ⚖️ Legal
-
-- This repository intends to host **openly available** or **properly licensed** materials.  
-- If you’re a copyright holder and believe a file should be removed, please open an **Issue** and it will be addressed promptly.
-
----
-
 ## 🗺️ Roadmap
 
 - Add curated lists for: **C testing**, **C tooling**, **Linux toolchains**  
@@ -78,8 +59,7 @@ C programming books, Makefile tutorial, C language eBooks, build systems, pointe
 ---
 
 ## 📄 License
-
-Choose a license for the repository meta-content (e.g., **MIT** for this README and structure).  
+  
 > Note: Individual books remain under their respective licenses.
 
 ---
