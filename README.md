@@ -44,14 +44,6 @@ A curated collection of **free programming eBooks (EPUB)** focused (for now) on 
 
 ---
 
-## 🗺️ Roadmap
-
-- Add curated lists for: **C testing**, **C tooling**, **Linux toolchains**  
-- Expand to: **Python**, **Java**, **Web**, **Data Science**  
-- Optional code examples alongside book chapters
-
----
-
 ## 🔍 SEO Keywords
 
 C programming books, Makefile tutorial, C language eBooks, build systems, pointers, memory management, algorithms in C, beginner to advanced C, free programming books (EPUB)
